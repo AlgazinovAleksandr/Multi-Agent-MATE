@@ -1,0 +1,10 @@
+constants.py
+constants_evaluation.py
+.DS_Store
+Data/
+__pycache__/
+*.png
+*.txt
+*.zip
+*.wav
+user_output/
