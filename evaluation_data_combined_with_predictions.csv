@@ -1,0 +1,231 @@
+prompt,task type,file path,correct file path,prediction_model_1,prediction_model_2,prediction_model_3
+Make a readable version of the speech in this file.,9,silent_sky_0.pdf,0,8,8,4
+Can you transcribe the dialogue in this film clip?,9,sunny_document_1.jpeg,0,9,9,9
+Write down all the words spoken in this recording.,9,smooth_moment_2.mov,1,4,4,4
+What is being said in this short film?,9,crazy_moment_3.jpeg,0,8,9,8
+Turn this video into written form.,9,crazy_moment_4.pdf,0,9,9,9
+I want subtitles for this movie scene.,9,noisy_document_5.pdf,0,9,9,9
+Extract spoken content from this video file.,9,dark_moment_6.png,0,9,9,9
+Generate a full transcript from this mp4.,9,dark_sky_7.wav,0,9,8,9
+Produce a transcript for this interview video.,9,fuzzy_sky_8.pdf,0,8,8,9
+Transcribe this camera recording.,9,fuzzy_forest_9.mp4,1,9,9,9
+Generate a dialogue list from this video file.,9,smooth_painting_10.mov,1,9,8,9
+Can you convert the audio from this video to text?,9,noisy_recording_11.avi,1,9,8,9
+Get the transcript for this video conversation.,9,silent_forest_12.avi,1,9,9,9
+Please create a subtitle file from this video.,9,dark_voice_13.avi,1,9,8,9
+Turn the sound in this video into text.,9,noisy_sky_14.mov,1,9,9,9
+Get the dialogue text from this visual media.,9,noisy_sky_15.mp3,0,9,8,9
+I’d like a written script from this video content.,9,crazy_recording_16.mov,1,9,9,9
+Type out what’s said in this video file.,9,silent_scene_17.txt,0,9,9,9
+Create a subtitle track for this clip.,9,bright_document_18.mp4,1,9,9,9
+Extract the audio content as text from this video.,9,crazy_scene_19.mp4,1,9,8,9
+Render a dynamic video from this vocal performance.,1,smooth_forest_0.mp3,1,7,1,1
+Craft a video sequence for this spoken story.,1,sunny_recording_1.wav,1,7,7,8
+Translate this song into a matching video format.,1,noisy_sky_2.mp3,1,7,1,1
+Use this sound to generate a video.,1,fuzzy_scene_3.mp3,1,1,1,1
+Use this audio to generate cinematic visuals.,1,sunny_moment_4.wav,1,1,1,1
+Turn this sound recording into a visual presentation.,1,quiet_river_5.ogg,1,0,1,0
+Generate a short movie from this sound file.,1,noisy_moment_6.docx,0,1,1,1
+Make a music video for this audio track.,1,silent_painting_7.wav,1,1,1,1
+Visualize this recording as a video clip.,1,bright_voice_8.pdf,0,7,1,1
+Make a video that fits the rhythm of this file.,1,bright_scene_9.pdf,0,1,1,1
+Please turn this audio file into a video.,1,silent_document_10.mp3,1,1,1,1
+Turn this .mp3 into a video file.,1,wild_painting_11.png,0,1,1,1
+Animate a visual scene from this narration.,1,crazy_video_12.jpg,0,7,1,7
+I want a video that matches this audio tone.,1,silent_painting_13.bmp,0,1,1,1
+Create a video animation based on this song.,1,fuzzy_river_14.ogg,1,7,1,1
+Make a film clip using this audio as base.,1,dark_river_15.jpg,0,7,1,1
+Visualize the sound in this clip using video.,1,quiet_moment_16.docx,0,1,1,1
+Convert this voiceover into an animated scene.,1,wild_video_17.docx,0,7,1,1
+Create visuals to accompany this melody.,1,smooth_document_18.mp3,1,1,1,1
+Produce a video that illustrates this podcast snippet.,1,crazy_moment_19.docx,0,7,1,8
+Write out this interview recording.,4,quiet_voice_0.pdf,0,8,4,4
+Please transcribe this podcast episode.,4,sunny_moment_1.mp4,0,4,4,4
+I need a written version of this speech.,4,bright_moment_2.wav,1,4,4,4
+Type out what this person is saying.,4,dark_forest_3.mp3,1,3,8,8
+Can you put the content of this sound into text form?,4,wild_voice_4.wav,1,4,4,4
+Write down what’s being said in this voice memo.,4,smooth_painting_5.mp3,1,4,4,4
+I want the words from this .wav file in text.,4,noisy_painting_6.wav,1,4,8,4
+Transcribe this customer support call.,4,noisy_video_7.bmp,0,4,4,4
+I’d like a transcript of this spoken file.,4,sunny_scene_8.png,0,4,8,4
+Generate captions from this sound file.,4,sunny_river_9.jpeg,0,0,9,1
+Generate a transcript from this mp3 recording.,4,bright_video_10.pdf,0,4,4,4
+Can you provide subtitles for this narration?,4,wild_moment_11.ogg,1,9,9,9
+Convert this audio message into written form.,4,fuzzy_video_12.jpeg,0,4,4,4
+Turn this dialogue recording into a script.,4,smooth_forest_13.jpeg,0,4,4,4
+Convert this voice input into a readable format.,4,quiet_voice_14.ogg,1,4,4,4
+What is being said in this audio clip?,4,silent_moment_15.bmp,0,8,4,4
+Transcribe this conference audio session.,4,quiet_sky_16.ogg,1,4,4,4
+Turn this sound file into text.,4,fuzzy_recording_17.wav,1,4,4,4
+Extract all spoken words from this audio file.,4,noisy_forest_18.txt,0,4,8,4
+Create a written record of this phone call.,4,dark_document_19.docx,0,4,8,8
+Please vocalize this essay on climate change.,6,noisy_recording_0.ogg,0,6,6,6
+I want to hear this written paragraph.,6,bright_scene_1.png,0,6,6,6
+Convert this book excerpt to an mp3 format.,6,noisy_forest_2.wav,0,6,6,6
+Speak this sentence out loud: 'The stars shine at night.',6,crazy_voice_3.pdf,1,6,6,6
+Generate a voiceover from this written content.,6,crazy_document_4.docx,1,6,8,6
+Give me a spoken version of the attached document.,6,sunny_recording_5.mp3,0,6,6,6
+Play the audio of this written speech.,6,smooth_scene_6.avi,0,6,6,6
+Transform this policy brief into something I can listen to.,6,smooth_recording_7.bmp,0,6,6,6
+Please convert this text file into speech.,6,smooth_river_8.docx,1,6,6,6
+Speak the following monologue out loud.,6,silent_moment_9.bmp,0,6,8,6
+Can you generate an audio version of this paper?,6,crazy_moment_10.docx,1,6,6,6
+Recite the following: 'Once upon a time in a distant land...',6,sunny_video_11.pdf,1,8,6,6
+Can you provide audio for this script?,6,wild_recording_12.jpeg,0,1,6,6
+Narrate this document as if it were a podcast.,6,noisy_river_13.pdf,1,6,8,6
+Turn the words in this document into audio.,6,noisy_recording_14.wav,0,6,8,6
+Read out this formal letter I just wrote.,6,sunny_sky_15.bmp,0,6,6,6
+Say this aloud: 'Innovation drives progress.',6,silent_forest_16.docx,1,6,6,6
+Read this article out loud for me.,6,fuzzy_river_17.pdf,1,6,6,6
+I'd like this message to be turned into a voice note.,6,smooth_recording_18.jpg,0,6,6,6
+I'd like to listen to the contents of this file.,6,fuzzy_painting_19.docx,1,8,6,6
+Draw a scene of 'a forest with glowing mushrooms'.,5,sunny_painting_0.docx,1,5,5,8
+Build a photo from this phrase: 'a smiling astronaut on Mars'.,5,fuzzy_document_1.pdf,1,5,5,5
+Draw the idea expressed in this paragraph.,5,smooth_river_2.docx,1,8,8,8
+Please create an image based on this description.,5,crazy_recording_3.png,0,5,5,8
+Generate a sketch from this descriptive text.,5,fuzzy_sky_4.mov,0,5,5,8
+Visualize this line: 'a cat sitting on a stack of books'.,5,smooth_recording_5.png,0,5,5,5
+I want to see what this line would look like as an image.,5,sunny_painting_6.txt,1,5,5,5
+Create an artwork from this short description.,5,crazy_moment_7.mp3,0,5,5,8
+Use this caption to render a drawing.,5,wild_river_8.jpg,0,5,5,8
+Translate this line into a creative image.,5,smooth_moment_9.ogg,0,5,5,5
+Use this sentence to produce a photo-like image.,5,fuzzy_scene_10.jpeg,0,5,5,5
+I want an illustration of the phrase: 'a peaceful village at dawn'.,5,silent_recording_11.jpeg,0,5,5,5
+Make a digital painting from this written scene.,5,smooth_sky_12.wav,0,5,5,5
+Convert this script line into a visual format.,5,sunny_moment_13.wav,0,7,7,5
+Depict this sentence visually in an artistic way.,5,fuzzy_moment_14.wav,0,5,5,5
+Render a landscape using this prompt.,5,quiet_river_15.mov,0,5,5,8
+Turn this sentence into a picture.,5,crazy_scene_16.pdf,1,5,5,5
+Generate a visual representation of this text.,5,fuzzy_voice_17.png,0,5,5,5
+Produce a graphic from this idea: 'a stormy ocean at night'.,5,sunny_forest_18.txt,1,5,5,5
+Make an image that reflects this sentence.,5,dark_sky_19.mov,0,5,5,8
+Convert this image into a car.,8,silent_document_0.tmp,0,5,8,8
+What makes a human unique?,8,noisy_sky_1.zip,0,8,8,8
+Can you help me understand the stock market?,8,silent_voice_2.wav,0,8,8,8
+Can you analyze this without knowing the type?,8,,0,8,8,8
+Use this .csv to create a painting.,8,,0,5,5,8
+Do your thing with this image!,8,,0,8,8,8
+"Upload complete: virus_file.bat, now entertain me.",8,silent_voice_6.bat,0,8,8,8
+What's your favorite movie?,8,smooth_recording_7.wav,0,8,8,8
+Generate a video from this potato.,8,noisy_forest_8.wav,0,5,1,8
+Print out this audio recording.,8,,0,8,0,4
+"I dropped a file, do something.",8,,0,8,8,8
+Cook this text document into dinner.,8,wild_voice_11.bat,0,8,8,8
+Make this document taste like chocolate.,8,sunny_voice_12.pdf,0,8,8,8
+Turn this config.sys into an audio tour.,8,,0,1,7,6
+How do I become famous?,8,,0,8,8,8
+Animate this image into a feeling.,8,,0,0,2,0
+Can you describe happiness?,8,,0,8,2,8
+Make this song into a galaxy.,8,sunny_document_17.wav,0,8,1,8
+Build an engine from this animation.,8,silent_voice_18.zip,0,8,8,8
+Make a drawing that feels like this MP3.,8,,0,0,0,0
+Please turn this PDF into courage.,8,bright_scene_20.exe,0,8,8,8
+Take this binary blob and decode its spirit.,8,,0,8,8,8
+"Here is a .zip file, make it sing.",8,crazy_voice_22.pdf,0,1,8,8
+Please do something with this .exe file.,8,noisy_scene_23.txt,0,8,8,8
+Why is the ocean salty?,8,,0,8,8,8
+Convert this PNG to a pizza.,8,wild_sky_25.png,0,5,8,8
+I want to morph this JPEG into a time machine.,8,sunny_voice_26.obj,0,5,8,8
+"I uploaded something, now entertain me.",8,,0,8,8,8
+Take this .obj model and make it think.,8,crazy_recording_28.dll,0,8,8,8
+Please take this .log file and turn it into a rap.,8,silent_document_29.txt,0,6,7,8
+Take this input and output whatever seems fun.,8,wild_painting_30.mp4,0,8,8,8
+Here’s a video... surprise me.,8,dark_voice_31.log,0,8,8,8
+Make something cool with this file.,8,,0,8,8,8
+Is AI dangerous?,8,quiet_document_33.json,0,8,8,8
+Please convert this to something useful.,8,,0,8,8,8
+Please translate this MP4 into Italian cuisine.,8,,0,8,8,8
+Transform this audio into a banana.,8,dark_painting_36.bat,0,8,8,8
+Design a room based on this podcast.,8,fuzzy_voice_37.tmp,0,8,8,8
+Read this random_blob.tmp file aloud.,8,bright_voice_38.wav,0,6,6,6
+Can you tell me something interesting?,8,smooth_video_39.tmp,0,8,8,8
+Make an Instagram post from this .tar.gz.,8,bright_forest_40.dll,0,8,8,8
+What should I eat today?,8,,0,8,8,8
+Turn my face into a JSON.,8,fuzzy_recording_42.json,0,8,8,8
+Turn this sound into a chair.,8,bright_sky_43.txt,0,8,8,8
+Tell me something that will blow my mind.,8,noisy_scene_44.tmp,0,8,8,8
+Make this sound smell like cinnamon.,8,,0,8,0,8
+"I uploaded a .dll, now what?",8,bright_forest_46.exe,0,8,8,8
+Convert my emotions into a PowerPoint.,8,crazy_voice_47.obj,0,8,8,8
+Take this and give me whatever you want.,8,noisy_painting_48.pdf,0,8,8,8
+"Here's a file, can you remix it?",8,smooth_moment_49.wav,0,8,8,8
+Create an image that represents this audio.,0,silent_river_0.pdf,0,0,0,0
+Translate this voice clip into a picture.,0,smooth_video_1.mp3,1,0,0,0
+Create a digital canvas from this sound file.,0,fuzzy_sky_2.ogg,1,0,0,0
+Paint a scene based on this vocal sample.,0,crazy_river_3.wav,1,5,1,0
+Generate a visual from the sounds in this file.,0,fuzzy_sky_4.ogg,1,0,0,0
+Make an image based on the vibe of this audio.,0,smooth_river_5.txt,0,0,0,0
+Generate an artwork from this ambient sound.,0,silent_painting_6.mp3,1,0,0,0
+Use this sound to generate an artistic image.,0,sunny_recording_7.mp3,1,0,0,0
+Build a photo that represents this noise.,0,noisy_painting_8.ogg,1,0,0,0
+What would this audio look like as an image?,0,sunny_painting_9.mp3,1,0,0,0
+I want a visual interpretation of this audio file.,0,crazy_scene_10.mp3,1,0,0,0
+Draw what this melody might look like.,0,silent_sky_11.bmp,0,8,0,0
+Turn this song into a piece of visual art.,0,quiet_recording_12.docx,0,0,0,0
+Visually depict what this music feels like.,0,wild_document_13.jpeg,0,1,1,8
+Convert this environmental sound to an illustration.,0,dark_river_14.wav,1,0,0,0
+Can you visualize this recording?,0,wild_scene_15.pdf,0,8,0,1
+Give me an abstract image based on this sound.,0,sunny_painting_16.wav,1,0,0,0
+Sketch what this sound suggests to you.,0,quiet_video_17.wav,1,8,0,0
+Make a picture inspired by this sound clip.,0,sunny_forest_18.wav,1,0,0,0
+Turn this sound into an image.,0,dark_forest_19.mp3,1,0,0,0
+Turn this scenario into a video format.,7,noisy_painting_0.bmp,0,7,8,7
+Give me a video version of this article.,7,silent_painting_1.docx,1,7,7,7
+Render this tale into a visual clip.,7,noisy_river_2.pdf,1,7,7,7
+Generate a movie clip based on this story.,7,wild_video_3.docx,1,7,7,8
+Visualize this line as a motion graphic.,7,silent_painting_4.txt,1,7,7,7
+Produce a moving picture from this scene.,7,dark_voice_5.jpg,0,7,7,1
+Make a short video from this fantasy description.,7,quiet_scene_6.mp3,0,7,7,7
+Make a video animation of this text.,7,silent_scene_7.txt,1,7,7,7
+Create a video from this storyline.,7,wild_video_8.txt,1,7,7,7
+Turn this scene description into a short video.,7,quiet_river_9.txt,1,7,7,7
+Build a clip from this story outline.,7,crazy_scene_10.txt,1,8,7,7
+Create a film segment from this prompt.,7,wild_painting_11.ogg,0,7,7,8
+Can you generate a video based on this text?,7,smooth_scene_12.docx,1,7,7,7
+Please create a video from this script.,7,bright_sky_13.avi,0,7,7,7
+Make an mp4 from the text provided.,7,noisy_sky_14.wav,0,7,7,7
+Animate the following: 'a bird flying through a storm'.,7,silent_forest_15.pdf,1,7,7,7
+Use this written description to animate a story.,7,crazy_moment_16.txt,1,7,7,7
+Bring this narrative to life as a video.,7,quiet_river_17.jpg,0,7,8,7
+Use this paragraph to produce a video.,7,smooth_document_18.wav,0,7,7,7
+I want to see a video of the phrase: 'a robot cleaning the house'.,7,crazy_river_19.bmp,0,7,7,7
+Convert this handwritten note image to text.,3,noisy_sky_0.bmp,1,3,3,3
+What words are visible in this screenshot?,3,quiet_moment_1.ogg,0,8,3,3
+Get the words from this advertisement photo.,3,quiet_sky_2.txt,0,3,3,3
+I need the content of this flyer in text format.,3,dark_scene_3.jpg,1,3,3,3
+Read the article excerpt in this scanned page.,3,silent_document_4.ogg,0,3,3,3
+Please transcribe the writing in this image.,3,smooth_forest_5.avi,0,3,3,3
+Identify all the written content in this photo.,3,fuzzy_video_6.avi,0,3,3,3
+Extract the paragraph shown in this image.,3,fuzzy_river_7.png,1,3,3,3
+Transcribe this old manuscript image.,3,silent_forest_8.ogg,0,3,3,3
+Extract any text you see in this image.,3,sunny_painting_9.txt,0,3,3,3
+Get the text content from this graphic file.,3,wild_forest_10.docx,0,3,3,3
+Turn this photo of a document into plain text.,3,quiet_moment_11.jpeg,1,3,3,3
+Can you read what’s written in this picture?,3,noisy_recording_12.png,1,3,3,3
+Tell me what’s printed in this photograph.,3,sunny_voice_13.bmp,1,3,3,3
+Turn this visual memo into text form.,3,fuzzy_recording_14.ogg,0,3,3,3
+Read this product label from the image file.,3,bright_video_15.ogg,0,8,3,3
+Read the characters from this scanned image.,3,smooth_voice_16.bmp,1,3,3,3
+What’s the content of this text-filled image?,3,silent_video_17.mov,0,3,3,3
+Can you retrieve text from this photo?,3,smooth_recording_18.mp3,0,3,3,3
+Please OCR this signboard from the image.,3,noisy_recording_19.pdf,0,8,3,3
+Generate a sound-based interpretation of this image.,2,crazy_moment_0.jpeg,1,0,2,2
+Make an audio version of this image content.,2,smooth_recording_1.txt,0,5,2,2
+Tell a story based on this image in voice.,2,sunny_document_2.pdf,0,2,2,8
+I want a voiceover describing this photograph.,2,sunny_voice_3.mp3,0,2,2,2
+Create a spoken description of this artwork.,2,fuzzy_forest_4.txt,0,8,2,2
+Narrate what’s happening in this image.,2,wild_document_5.jpeg,1,2,2,2
+Give me an audio summary of this snapshot.,2,silent_painting_6.jpg,1,8,2,2
+Explain what’s shown in this picture with sound.,2,dark_scene_7.mp4,0,2,2,2
+Describe this image using audio.,2,sunny_recording_8.mov,0,2,2,2
+Can you create sound from this visual file?,2,bright_river_9.bmp,1,0,2,2
+Speak out the contents of this illustration.,2,dark_moment_10.ogg,0,2,2,2
+Turn this picture into an audio description.,2,crazy_scene_11.ogg,0,2,2,2
+Tell me what’s visible in this photo.,2,wild_painting_12.jpg,1,2,2,8
+Convert this scenery into sound.,2,quiet_moment_13.jpeg,1,8,2,2
+Use speech to describe this scene.,2,noisy_voice_14.pdf,0,8,2,2
+Make an auditory rendering of this PNG.,2,sunny_moment_15.ogg,0,0,2,2
+I want to hear what’s in this photo.,2,crazy_sky_16.txt,0,2,2,2
+Provide an audible explanation of this image.,2,sunny_scene_17.mp4,0,2,2,2
+What do you see in this photo? Say it out loud.,2,sunny_painting_18.bmp,1,2,2,2
+Please vocalize what’s seen in this image file.,2,noisy_river_19.txt,0,2,2,2
